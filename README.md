@@ -8,7 +8,7 @@ Streamlit application for real-time sign language detection using computer visio
 - High accuracy SVM model (99.9%)
 
 ## Live Demo
-[Your Streamlit App URL]
+[(https://hand-sign-language.streamlit.app/)]
 
 ## Local Setup
 ```bash
